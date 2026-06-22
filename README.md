@@ -6,6 +6,8 @@ Data Analyste spécialisée en assurance, je mets ma curiosité, mon sens de l'a
 
 Appréciant autant les défis techniques que la compréhension des enjeux métier, je cherche à contribuer à des projets innovants où la donnée crée une réelle valeur ajoutée. Motivée par l'apprentissage continu et le travail collaboratif, je souhaite évoluer dans un environnement dynamique favorisant l'initiative, l'innovation et l'excellence.
 
+- Email : rongrongcai2000@gmail.com
+- ![LinkedIn](https://fr.vecteezy.com/png/18930480-logo-linkedin-png-icone-linkedin-png-transparent)(linkedin.com/in/rongrong-cai)
 
 ## Livrables Openclassrooms
 ### Projet 2 - Faites une analyse de ventes pour un e-commerce
