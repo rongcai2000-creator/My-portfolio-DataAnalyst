@@ -21,8 +21,8 @@ Portfolio métier Data Analyst - Openclassrooms
 
 
 ### Projet 5 - Créez et utilisez une base de données immobilière avec SQL
-- [Livrables rendus](Projet%205%20-%20Creer%20et%20utiliser%20une%20base%20de%20donnes%20immobiliere%20avec%20SQL)
-- [Présentation](https://github.com/rongcai2000-creator/My-portfolio-DataAnalyst/blob/main/Projet%205%20-%20Creer%20et%20utiliser%20une%20base%20de%20donnes%20immobiliere%20avec%20SQL/Cai_Rongrong_2_support_presentation_112024.pptx/Cai_Rongrong_2_support_presentation_112024.pptx)
+- [Livrables rendus](https://github.com/rongcai2000-creator/My-portfolio-DataAnalyst/tree/main/Projet%205%20-%20Creer%20et%20utiliser%20une%20base%20de%20donnes%20immobiliere%20avec%20SQL)
+- [Présentation](https://github.com/rongcai2000-creator/My-portfolio-DataAnalyst/blob/main/Projet%205%20-%20Creer%20et%20utiliser%20une%20base%20de%20donnes%20immobiliere%20avec%20SQL/Cai_Rongrong_2_support_presentation_112024.pptx)
 
 
 ### Projet 6 - Optimisez la gestion des données d'une boutique avec Python
