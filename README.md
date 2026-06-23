@@ -90,7 +90,7 @@ Construire un modèle de prédiction pour détecter des faux billets grâce à d
 Présenter les compétences et les projets de formation de Data Analyst sous la forme d’un portfolio original pour convaincre un recruteur potentiel et prendre du recul sur vos compétences.
 
 - [Livrables rendus](https://github.com/rongcai2000-creator/My-portfolio-DataAnalyst/tree/main/Projet%2013%20-%20Cr%C3%A9er%20un%20portfolio%20Data)
-
+- [Présentation](https://github.com/rongcai2000-creator/My-portfolio-DataAnalyst/blob/main/Projet%2013%20-%20Cr%C3%A9er%20un%20portfolio%20Data/Cai_rongrong_7_presentation_construction_portfolio.pdf)
 
 
 ## Compétences 
