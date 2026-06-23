@@ -6,10 +6,9 @@ Data Analyste spécialisée en assurance, je mets ma curiosité, mon sens de l'a
 
 Appréciant autant les défis techniques que la compréhension des enjeux métier, je cherche à contribuer à des projets innovants où la donnée crée une réelle valeur ajoutée. Motivée par l'apprentissage continu et le travail collaboratif, je souhaite évoluer dans un environnement dynamique favorisant l'initiative, l'innovation et l'excellence.
 
-- Email : rongrongcai2000@gmail.com
-- [linkedin.com/in/rongrong-cai](https://www.linkedin.com/in/rongrong-cai/)
 
-## Livrables Openclassrooms
+
+## Projets Openclassrooms
 ### Projet 2 - Faites une analyse de ventes pour un e-commerce
 Choisir les bons graphiques pour synthétiser votre analyse des ventes et générez des graphiques avec Excel
 
@@ -91,6 +90,26 @@ Construire un modèle de prédiction pour détecter des faux billets grâce à d
 Présenter les compétences et les projets de formation de Data Analyst sous la forme d’un portfolio original pour convaincre un recruteur potentiel et prendre du recul sur vos compétences.
 
 - [Livrables rendus](https://github.com/rongcai2000-creator/My-portfolio-DataAnalyst/tree/main/Projet%2013%20-%20Cr%C3%A9er%20un%20portfolio%20Data)
+
+
+
+## Compétences 
+- Power BI : ****-
+- Python : ***--
+- R : ***--
+- SQL : ***--
+- Tableau : **---
+- dbt : **---
+
+- Statistiques : ****-
+- Apprentissage : ***--
+- Semi-apprentissage : ***--
+
+
+
+## Contact
+- Email : rongrongcai2000@gmail.com
+- LinkedIn : [linkedin.com/in/rongrong-cai](https://www.linkedin.com/in/rongrong-cai/)
 
 
 ## ========== END ==========
